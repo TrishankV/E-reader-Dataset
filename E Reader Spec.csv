@@ -1,4 +1,3 @@
-```csv
 brand,model_name,release_year,launch_date,launch_price_usd,e_ink_type,screen_size_in,dpi,resolution_px,dimensions_mm,weight_g,storage_gb,ram_mb,connectivity,battery_life,waterproof,os,cpu,supported_formats,special_features,approx_notes,availability_status,availability_regions,availability_checked_on
 Amazon,Kindle (1st gen),2007,2007-11-19,399,E Ink Vizplex,6,167,"600x800","190x130x20",290,0.25,64,"EVDO; USB","days",No,Kindle OS,Marvell PXA255 400MHz,"AZW; MOBI (unprotected); PRC; TXT; MP3","hardware keyboard; SD card slot","available user storage ≈180MB",discontinued,,2025-09-14
 Amazon,Kindle 2,2009,2009-02-23,299,E Ink Vizplex,6,167,"600x800","203x135x9",289,2,32,"3G; USB","weeks",No,Kindle OS,Freescale i.MX31 532MHz,"AZW; MOBI (unprotected); PRC; TXT; PDF (fw 2.3)","TTS; speaker","dimensions rounded",discontinued,,2025-09-14
@@ -145,4 +144,3 @@ PocketBook,PocketBook InkPad X,2019,2019-11-__,279,E Ink Mobius Carta,10.3,227,"
 PocketBook,PocketBook InkPad X Pro,2023,2023-11-__,349,E Ink Carta,10.3,227,"1404x1872","249x173x7.7",300,32,3072,"Wi‑Fi; Bluetooth","weeks",No,Android 8.1,?,"EPUB; PDF; apps","Wacom pen; Android firmware","Android edition of InkPad X",available,"EU; US",2025-09-14
 Onyx Boox,Boox Tab Mini C,2023,2023-06-__,449,E Ink Kaleido 3,7.8,"300 mono; 150 color","1404x1872","195x136x8.3",264,64,4096,"Wi‑Fi; Bluetooth","weeks",No,Android 11,?,"EPUB; PDF; apps","color 7.8; pen","weight approx",available,"US; EU; IN",2025-09-14
 Onyx Boox,Boox Tab X,2022,2022-12-__,879,E Ink Carta,13.3,207,"1650x2200","310x228x6.8",560,128,6144,"Wi‑Fi; Bluetooth","weeks",No,Android 11,?,"EPUB; PDF; Office","A4‑class; pen; keyboard support","premium price point",available,"US; EU",2025-09-14
-```
