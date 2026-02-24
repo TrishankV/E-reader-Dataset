@@ -1,0 +1,1191 @@
+Test Status Date & Time
+
+Appeared On 24 Feb 2026, 09:17 AM
+Completed On 24 Feb 2026, 09:50 AM
+Report Generated On 24 Feb 2026, 09:50 AM
+
+Question Details
+
+Captured IP address
+136.226.232.172
+136.226.232.172
+
+136.226.232.172
+
+Question: #1 Type: MCQ Skill: Status: Answered
+Cloud Computing Cloud
+Applications
+Result: Wrong Level: Easy Time Taken: 48 sec Average Time: 25.48 sec
+Score: 0/1 Window Violation: Time Violation: 0 sec
+0 times
+Question #1
+Faas provides an application development environment in the form of ___?
+Answer:
+Hosted applications
+Question: #2 Type: MCQ Skill: Status: Answered
+Cloud Computing Cloud
+design
+Result: Correct Level: Easy Time Taken: 35 sec Average Time: 22.26 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #2
+
+provides uninterrupted services.
+
+Answer:
+
+High Availability
+
+Capgomini®
+
+Page 7/36
+
+
+--- PAGE BREAK ---
+
+Question: #3 Type: MCQ Skill: Status: Answered
+Cloud Computing Cloud
+
+Networking
+Result: Correct Level: Easy Time Taken: 30 sec Average Time: 21.82 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+
+0 times
+
+Question #3
+
+Which filters network traffic based on rules defined by the administrator
+
+Answer:
+Firewall
+Question: #4 Type: MCQ Skill: Status: Answered
+Cloud Computing Cloud
+Principles
+Result: Correct Level: Easy Time Taken: 54 sec Average Time: 30.07 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+Question #4
+
+Which of these is not a cloud deplyment model?
+
+Answer:
+
+Compound Cloud
+
+Capgomini®
+
+Page 8/36
+
+
+--- PAGE BREAK ---
+
+Question: #5 Type: MCQ Skill: Status: Answered
+Cloud Computing Cloud
+
+Storage
+Result: Correct Level: Easy Time Taken: 8 sec Average Time: 13.42 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+Question #5
+~ oe is a Cloud Provider?
+Answer:
+Bothl&2
+Question: #6 Type: MCQ Skill: Status: Answered
+Cloud Computing
+Hosting Scenarios
+Result: Correct Level: Easy Time Taken: 37 sec Average Time: 21.67 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+Question #6
+
+The features of On-primses computing are?
+
+Answer:
+
+Both Option 1 and 2
+
+Capgomini®
+
+Page 9/36
+
+
+--- PAGE BREAK ---
+
+Question: #7 Type: MCQ Skill: Status: Answered
+IT Security Browser
+
+Security
+Result: Wrong Level: Easy Time Taken: 22 sec Average Time: 21.85 sec
+Score: 0/1 Window Violation: Time Violation: 0 sec
+
+0 times
+
+Question #7
+
+Which of the following is example for Post imaging tool?
+
+Answer:
+
+Microsoft Deployment Toolkit
+
+Question: #8 Type: MCQ Skill: Status: Answered
+Linux_Basic Commands
+Result: Correct Level: Easy Time Taken: 24 sec Average Time: 21.75 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+Question #8
+
+Choose the server which is used with the BIND package?
+
+Answer:
+
+named
+
+Capgomini®
+
+Page 10/36
+
+
+--- PAGE BREAK ---
+
+Question: #9 Type: MCQ Skill: Status: Answered
+Linux_Working with the
+
+Linux Server
+Result: Correct Level: Easy Time Taken: 34 sec Average Time: 18.6 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+Question #9
+Public document Hosting Limitation is_ __?
+Answer:
+All of the above
+Question: #10 Type: MCQ Skill: Status: Answered
+Windows _Application
+Server
+Result: Correct Level: Easy Time Taken: 16 sec Average Time: 18 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+Question #10
+Application Servers Canbe ____§_§_§_______ ?
+
+Answer:
+
+All of the above
+
+Capgomini®
+
+Page 11/36
+
+
+--- PAGE BREAK ---
+
+Question: #11 Type: MCQ Skill: Status: Answered
+Windows _File and Printer
+
+Servers
+Result: Correct Level: Easy Time Taken: 24 sec Average Time: 18.83 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+Question #11
+Print servers Provide_________ ?
+Answer:
+All of the above
+Question: #12 Type: MCQ Skill: Status: Answered
+Cloud Computing Cloud
+computing fundamentals
+Result: Correct Level: Easy Time Taken: 36 sec Average Time: 31.23 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #12
+
+is a partitioning of single server into multiple logical servers
+
+Answer:
+
+Vitrualization
+
+Capgomini®
+
+Page 12/36
+
+
+--- PAGE BREAK ---
+
+Question: #13 Type: MCQ Skill: Status: Answered
+Cloud Computing Cloud
+
+Networking
+Result: Correct Level: Easy Time Taken: 39 sec Average Time: 21 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+
+0 times
+
+Question #13
+
+is a hardware and sometimes software solution that serves as a network security
+
+checkpoint.
+Answer:
+Firewall
+Question: #14 Type: MCQ Skill: Status: Answered
+Cloud Computing Cloud
+Platforms
+Result: Correct Level: Easy Time Taken: ll sec Average Time: 19.75 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+Question #14
+laas Includes ?
+
+Answer:
+
+All of the above
+
+Capgomini®
+
+Page 13/36
+
+
+--- PAGE BREAK ---
+
+Question: #15 Type: MCQ Skill: Status: Answered
+Cloud Computing Cloud
+
+Principles
+Result: Correct Level: Easy Time Taken: 56 sec Average Time: 21.33 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #15
+
+What are the components of Cloud Computing?
+
+Answer:
+
+All of the above
+Question: #16 Type: MCQ Skill: Status: Answered
+
+Cloud Computing Cloud
+Service Models
+
+Result: Correct Level: Easy Time Taken: 43 sec Average Time: 24.04 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #16
+
+replaces the physical on-prem IT infrastructure.
+
+Answer:
+
+laaS
+
+Capgomini®
+
+Page 14/36
+
+
+--- PAGE BREAK ---
+
+Question: #17
+
+Result: Correct
+
+Score: 1/1
+
+Question #17
+
+Type: MCQ
+
+Level: Easy
+
+Window Violation:
+
+0 times
+
+Serverless computing is an extension of
+
+Answer:
+
+Faas
+
+Question: #18
+
+Result: Correct
+
+Score: 1/1
+
+Question #18
+
+Type: MCQ
+
+Level: Easy
+
+Window Violation:
+
+0 times
+
+Skill:
+
+Cloud Computing_The
+Future of Cloud
+Computing
+
+Time Taken: 11 sec
+
+Time Violation: 0 sec
+
+Skill:
+
+IT Securit y_Social
+Engineering Threads and
+Vulnerability
+
+Time Taken: 35 sec
+
+Time Violation: 0 sec
+
+Which is not related to Social Engineering attacks?
+
+Answer:
+
+DoS
+
+Capgomini®
+
+Status: Answered
+
+Average Time: 18.69 sec
+
+Status: Answered
+
+Average Time: 19.62 sec
+
+Page 15/36
+
+
+--- PAGE BREAK ---
+
+Question: #19 Type: MCQ Skill: Status: Answered
+ITSM_Operational
+
+Concepts
+Result: Correct Level: Easy Time Taken: 23 sec Average Time: 20.08 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+
+0 times
+
+Question #19
+
+A problem that has been analyzed but has not be resolved is known as:
+
+Answer:
+
+Known Errors
+
+Question: #20 Type: MCQ Skill: Status: Answered
+ITSM_Service focused
+Practices
+Result: Correct Level: Easy Time Taken: 36 sec Average Time: 31.12 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #20
+
+Which of the following statement is correct?
+
+Answer:
+
+Problem Management focuses on root cause and Incident Management focuses on
+
+restoration
+
+Capgomini®
+
+Page 16/36
+
+
+--- PAGE BREAK ---
+
+Question: #21 Type: MCQ Skill: Status: Answered
+Linux_Linux and The
+Open Source Community
+
+Result: Correct Level: Easy Time Taken: 21 sec Average Time: 19 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #21
+
+Which of the following are the elements of creative common system?
+
+Answer:
+
+All of the above
+
+Question: #22 Type: MCQ Skill: Status: Answered
+Windows_Remote
+Access Servers
+
+Result: Correct Level: Easy Time Taken: 22 sec Average Time: 27.65 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #22
+
+Which statement is not a feature of Router?
+
+Answer:
+
+Cannot Provide Remote Access
+
+Capgomini®
+
+Page 17/36
+
+
+--- PAGE BREAK ---
+
+Question: #23 Type: MCQ
+
+Result: Correct Level: Easy
+
+Window Violation:
+0 times
+
+Score: 1/1
+
+Question #23
+
+Identify the incorrect statement w.r.t Saas
+
+Answer:
+
+High financial risk
+
+Question: #24 Type: MCQ
+
+Result: Correct Level: Easy
+
+Window Violation:
+0 times
+
+Score: 1/1
+
+Question #24
+
+Skill: Status: Answered
+Cloud Computing Cloud
+
+Applications
+Time Taken: 42 sec Average Time: 27.02 sec
+
+Time Violation: 0 sec
+
+Skill: Status: Answered
+Cloud Computing Cloud
+
+Applications
+Time Taken: 41 sec Average Time: 21.78 sec
+
+Time Violation: 0 sec
+
+Which of the following benefits are correct regarding SaaS to Software Vendors?
+
+Answer:
+
+All of the above
+
+Capgomini®
+
+Page 18/36
+
+
+--- PAGE BREAK ---
+
+Question: #25 Type: MCQ Skill: Status: Answered
+Cloud Computing Cloud
+computing fundamentals
+
+Result: Correct Level: Easy Time Taken: 40 sec Average Time: 28.1] sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #25
+
+_ is software framework, patented and invented by Google to support distributed computing
+
+on large sets of data.
+
+Answer:
+MapReduce
+Question: #26 Type: MCQ Skill: Status: Answered
+Cloud Computing Cloud
+Networking
+Result: Correct Level: Easy Time Taken: 33 sec Average Time: 22 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+
+0 times
+
+Question #26
+
+Identify the one which sends the request to real servers
+
+Answer:
+
+Load balancer
+
+Capgomini®
+
+Page 19/36
+
+
+--- PAGE BREAK ---
+
+Question: #27 Type: MCQ Skill: Status: Answered
+Cloud Computing Cloud
+
+Platforms
+Result: Correct Level: Easy Time Taken: 15 sec Average Time: 16.14 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+Question #27
+Combining solutions from more than one cloud service provider is________ ?
+Answer:
+Multi Cloud
+Question: #28 Type: MCQ Skill: Status: Answered
+Cloud Computing Cloud
+Principles
+Result: Correct Level: Easy Time Taken: 24 sec Average Time: 23.74 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #28
+
+Which of the following service come under category of Cloud computing?
+
+Answer:
+
+All of the above
+
+Capgomini®
+
+Page 20/36
+
+
+--- PAGE BREAK ---
+
+Question: #29 Type: MCQ Skill: Status: Answered
+Cloud Computing
+Deployment Model
+
+Result: Correct Level: Easy Time Taken: 37 sec Average Time: 20.67 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #29
+
+High-Performance Computing(HPC) is working on strategy of ?
+
+Answer:
+
+Parallel processing
+
+Question: #30 Type: MCQ Skill: Status: Answered
+Cloud Computing
+Deployment Model
+
+Result: Correct Level: Easy Time Taken: 47 sec Average Time: 20.34 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #30
+
+Which of the following allows firms to address many of the challenges of public cloud?
+
+Answer:
+
+Hybrid Cloud
+
+Capgomini®
+
+Page 21/36
+
+
+--- PAGE BREAK ---
+
+Question: #31 Type: MCQ
+
+Result: Correct Level: Easy
+
+Score: 1/1 Window Violation:
+0 times
+
+Question #31
+
+Which is an example for Rootkit?
+
+Answer:
+
+Sony DRM
+Question: #32 Type: MCQ
+Result: Correct Level: Easy
+Score: 1/1 Window Violation:
+
+0 times
+
+Question #32
+
+Skill: Status: Answered
+IT Security Malware
+Prevention
+
+Time Taken: 38 sec Average Time: 24.54 sec
+
+Time Violation: 0 sec
+
+Skill: Status: Answered
+IT Security_Security
+Measures and Purposes
+
+Time Taken: 36 sec Average Time: 20.8 sec
+
+Time Violation: 0 sec
+
+In Domain security, the security groups are for?
+
+Answer:
+
+Access control
+
+Capgomini®
+
+Page 22/36
+
+
+--- PAGE BREAK ---
+
+Question: #33 Type: MCQ Skill: Status: Answered
+Linux_Configuring the
+linux Environment
+
+Result: Correct Level: Easy Time Taken: 50 sec Average Time: 23.33 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #33
+
+Linux Runlevel 3 is used for ?
+
+Answer:
+
+Multi user mode without GUI
+
+Question: #34 Type: MCQ Skill: Status: Answered
+Linux_Navigating the
+Linux file System
+
+Result: Wrong Level: Easy Time Taken: 7 sec Average Time: 16.79 sec
+Score: 0/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #34
+
+echo’ command is used to?
+
+Answer:
+
+display the content of a file
+
+Capgomini®
+
+Page 23/36
+
+
+--- PAGE BREAK ---
+
+Question: #35 Type: MCQ Skill: Status: Answered
+Service Level
+Management _ITSM
+
+Result: Correct Level: Easy Time Taken: 24 sec Average Time: 23.53 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #35
+
+What are the types of SLA?
+
+Answer:
+
+All of the above
+
+Question: #36 Type: MCQ Skill: Status: Answered
+Windows _Web Server
+Result: Correct Level: Easy Time Taken: 18 sec Average Time: 18 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #36
+
+Which protocol is incorrectly paired?
+
+Answer:
+
+DHCP-66
+
+Capgomini®
+
+Page 24/36
+
+
+--- PAGE BREAK ---
+
+Question: #37 Type: MCQ Skill: Status: Answered
+Cloud Computing Cloud
+computing fundamentals
+
+Result: Wrong Level: Easy Time Taken: 60 sec Average Time: 31.17 sec
+Score: 0/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #37
+
+Which of the following is not a Cloud Stakeholder?
+
+Answer:
+Cloud User
+Question: #38 Type: MCQ Skill: Status: Answered
+Cloud Computing Cloud
+computing fundamentals
+Result: Wrong Level: Easy Time Taken: 38 sec Average Time: 28.5 sec
+Score: 0/1 Window Violation: Time Violation: 0 sec
+
+0 times
+
+Question #38
+
+_ resources in cloud servers can increase the cost.
+
+Answer:
+
+under-allocating
+
+Capgomini®
+
+Page 25/36
+
+
+--- PAGE BREAK ---
+
+Question: #39 Type: MCQ Skill: Status: Answered
+Cloud Computing Cloud
+
+Platforms
+Result: Correct Level: Easy Time Taken: 26 sec Average Time: 19.62 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+Question #39
+The kubernetes was invented by?
+Answer:
+Google
+Question: #40 Type: MCQ Skill: Status: Answered
+Cloud Computing Cloud
+Storage
+Result: Correct Level: Easy Time Taken: 43 sec Average Time: 19.76 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+
+0 times
+
+Question #40
+
+Which storage type is suitable for structured data sets?
+
+Answer:
+
+Block Storage
+
+Capgomini®
+
+Page 26/36
+
+
+--- PAGE BREAK ---
+
+Question: #41 Type: MCQ Skill: Status: Answered
+Cloud Computing
+Deployment Model
+
+Result: Correct Level: Easy Time Taken: 40 sec Average Time: 28.23 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #41
+
+Private cloud is a
+
+Answer:
+
+cloud architecture maintained within an enterprise data center.
+
+Question: #42 Type: MCQ Skill: Status: Answered
+Linux_Basic Commands
+Result: Wrong Level: Easy Time Taken: 31sec Average Time: 31.29 sec
+Score: 0/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #42
+
+Which of the following command is used to add a new user to the system?
+
+Answer:
+
+adduser
+
+Capgomini®
+
+Page 27/36
+
+
+--- PAGE BREAK ---
+
+Question: #43 Type: MCQ Skill: Status: Answered
+Linux_Linux network
+Connectivity
+
+Result: Correct Level: Easy Time Taken: 40 sec Average Time: 25.34 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #43
+
+netstat -i command is used for ?
+
+Answer:
+
+Display all network interfaces
+
+Question: #44 Type: MCQ Skill: Status: Answered
+Linux_Navigating the
+Linux file System
+
+Result: Correct Level: Easy Time Taken: 7 sec Average Time: 14.42 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #44
+
+Which command is used to show the current directory youre in?
+
+Answer:
+
+pwd
+Question: #45 Type: MCQ Skill: Windows _Basics Status: Answered
+Result: Correct Level: Easy Time Taken: 25 sec Average Time: 21.5 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+
+0 times
+Question #45
+DHCP is ?
+
+Answer:
+Dynamic Host Configuration Protocol Capgomini®
+
+Page 28/36
+
+
+--- PAGE BREAK ---
+
+Question: #46 Type: MCQ Skill: Status: Answered
+Windows _ Virtualization
+
+Servers
+Result: Correct Level: Easy Time Taken: 18 sec Average Time: 14.5 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+Question #46
+What are Remote Management GUI tools?
+Answer:
+All of the above
+Question: #47 Type: MCQ Skill: Status: Answered
+Cloud Computing Cloud
+Applications
+Result: Correct Level: Easy Time Taken: 38 sec Average Time: 22.42 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+
+0 times
+
+Question #47
+
+Which is not an example of Saas?
+
+Answer:
+
+Personalized marketing
+
+Capgomini®
+
+Page 29/36
+
+
+--- PAGE BREAK ---
+
+Question: #48 Type: MCQ Skill: Status: Answered
+Cloud Computing Cloud
+computing fundamentals
+
+Result: Correct Level: Easy Time Taken: 40 sec Average Time: 27 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #48
+
+How many phases are there in Cloud Computing Planning?
+
+Answer:
+3
+Question: #49 Type: MCQ Skill: Status: Answered
+Cloud Computing Cloud
+computing fundamentals
+Result: Correct Level: Easy Time Taken: 50 sec Average Time: 28.86 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+
+0 times
+
+Question #49
+
+Which of the following is not a property of cloud computing?
+
+Answer:
+
+Composoabilit y
+
+Capgomini®
+
+Page 30/36
+
+
+--- PAGE BREAK ---
+
+Question: #50 Type: MCQ Skill: Status: Answered
+Cloud Computing Cloud
+computing fundamentals
+
+Result: Correct Level: Easy Time Taken: 37 sec Average Time: 23.32 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #50
+
+The technology used to distribute service requests to resources is known as
+
+Answer:
+
+Load Balancing
+
+Question: #51 Type: MCQ Skill: Status: Answered
+Cloud Computing Cloud
+computing fundamentals
+
+Result: Wrong Level: Easy Time Taken: 35 sec Average Time: 24.58 sec
+Score: 0/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #51
+In which one of the following, the virtual machine simulates hardware, through which it can be
+independent of the underlying system hardware?
+
+Answer:
+
+Full virtualization
+
+Capgomini®
+
+Page 31/36
+
+
+--- PAGE BREAK ---
+
+Question: #52 Type: MCQ Skill: Status: Answered
+Cloud Computing Cloud
+
+design
+Result: Correct Level: Easy Time Taken: 43 sec Average Time: 33.24 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+
+0 times
+
+Question #52
+
+Four(4) nines indicates that the service will be unavailable for
+
+Answer:
+
+52.36 mins/year
+
+Question: #53 Type: MCQ Skill: Status: Answered
+Cloud Computing Cloud
+Platforms
+Result: Correct Level: Easy Time Taken: 56 sec Average Time: 18.93 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #53
+
+is the audience of Infrastructure as a Service
+
+Answer:
+
+Both2&3
+
+Capgomini®
+
+Page 32/36
+
+
+--- PAGE BREAK ---
+
+Question: #54 Type: MCQ Skill: Status: Answered
+Cloud Computing Cloud
+
+Platforms
+Result: Correct Level: Easy Time Taken: 8 sec Average Time: 13.76 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+Question #54
+PaaS includes__________ ?
+Answer:
+All of the above
+Question: #55 Type: MCQ Skill: Status: Answered
+Cloud Computing Cloud
+Service Models
+Result: Correct Level: Easy Time Taken: 26 sec Average Time: 19.96 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #55
+
+is a software licensing and delivery model where apps are subscribed to and accessed
+
+over the internet.
+
+Answer:
+
+Saas
+
+Capgomini®
+
+Page 33/36
+
+
+--- PAGE BREAK ---
+
+Question: #56 Type: MCQ Skill: Status: Answered
+Cloud Computing
+Deployment Model
+
+Result: Correct Level: Easy Time Taken: 41 sec Average Time: 23.48 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #56
+
+Which service is used by public cloud provider to provide a set of computing resources to
+
+specific customer
+
+Answer:
+VPC/Vnet
+Question: #57 Type: MCQ Skill: Status: Answered
+Cloud Computing
+Hosting Scenarios
+Result: Wrong Level: Easy Time Taken: 35 sec Average Time: 22.85 sec
+Score: 0/1 Window Violation: Time Violation: 0 sec
+
+0 times
+
+Question #57
+
+Which is true about Bare-metal computing?
+
+Answer:
+
+No virtualization is used
+
+Capgomini®
+
+Page 34/36
+
+
+--- PAGE BREAK ---
+
+Question: #58 Type: MCQ Skill: Status: Answered
+IT Security_Security
+Settings in Windows
+
+Result: Wrong Level: Easy Time Taken: 45 sec Average Time: 30.9 sec
+Score: 0/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #58
+
+Which is not related to BitLocker?
+
+Answer:
+
+Certificates not required
+
+Question: #59 Type: MCQ Skill: Status: Answered
+IT Security_Work Station
+Security Best Practices
+
+Result: Correct Level: Easy Time Taken: 23 sec Average Time: 19.38 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #59
+
+Physical security Inculdes ?
+
+Answer:
+
+Both] & 2
+
+Capgomini®
+
+Page 35/36
+
+
+--- PAGE BREAK ---
+
+Question: #60 Type: MCQ Skill: Status: Answered
+Linux_Configuring the
+linux Environment
+
+Result: Correct Level: Easy Time Taken: 34 sec Average Time: 25 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #60
+
+A “Logical Volume Manager" helps in?
+
+Answer:
+
+Both storage virtualization and efficient disk space management
+Disclaimer
+
+This report is generated electronically based on the information provided by the assessment participants. It also
+includes flags, especially when proctoring services are utilized. However, it is important to emphasize that this
+report should not be the sole basis for making any business, selection, entrance, or employment-related
+decisions. iMocha assumes no responsibility for any consequences arising from the use of this report or any
+actions taken or refrained from as a result of it. This includes all business decisions made in reliance on the
+information, advice, or Al flags contained in this report, as well as any sources of information mentioned or
+referred to in the report.
+
+Page 36/36
+
+
+--- PAGE BREAK ---
+

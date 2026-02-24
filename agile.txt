@@ -1,0 +1,1494 @@
+Identification of strengths and skill improvement needs
+
+@ Strength @ Improvement area
+
+Congratulations! We have identified Continuous Based on your score, Collaborative Skills,
+Learning, DevOps, Authorization Frameworks, Customer Focus are the identified areas of
+Metrics Management, Testing Methodologies, improvement.
+
+User Stories, Accountability & Ownership,
+Automation as your strengths.
+
+Importance of Customer Focus for you and your organization
+
+<p>To be able to have a healthy relationship with clients/customers and understand their needs for the
+work/projects ahead. Customer Focus is the major determinant of the success or failure of an organization.
+Making an effort to understand the situation in which customers are, helps you get them where they wantto be.
+
+</p>
+
+Set skill improvement goals for the future
+
+Build constructive feedback skills
+
+1. To receive Positive feedback from customers.
+
+2. To ensure Rapid response to customer queries and needs.
+
+3. To Focus on customer wants and expectations.
+
+4.To Focus on building a constructive relationship with customers.
+
+Improvement area : Customer Focus
+
+Act on a short-term & long-term plan:
+
+30 days 60 days 90 days
+
+Page 7/36
+
+
+--- PAGE BREAK ---
+
+1. Know the customer's 1. Make the support team 1. Collaborate with the
+
+primary goal and needs. accessible. customer.
+2. Listen actively. 2. Be proactive when 2. Take customer feedback
+3. Have patience and make communicating company and evaluate the
+space for the customer's changes. customer satisfaction
+ideas. 3. Look for product index.
+4. Solve issues on a daily improvements.
+basis. 4. Identify ‘at risk’ customers
+
+and implement effective
+measures to retain them.
+
+Difficulty Level Analysis
+
+Level Number of Questions Correct Attempts Correctness
+Easy 60 45 75%
+Medium 0) 0) 0%
+Hard 0) 0) 0%
+
+Proctoring Analysis
+
+Images Captured: 63 Image Violations: 0
+
+lms Image violations detected, within tolerable limit.
+
+Multiple Faces Detected 0
+No Face Detected ie)
+Unrecognized Face Detected 0
+
+Note: The total violations are based on the custom violation settings for
+this test. The number of consecutive images considered as one violation
+is configured for all the categories (Unrecognized Face, Multiple Faces, No
+Face) and may differ from the default settings.
+
+Window Violation: 0 Time Violation: 0 min 0 sec
+Test Log
+Test Status Date & Time Captured IP address
+Appeared On 23 Feb 2026, 10:55 AM 136.226.232.190
+Completed On 23 Feb 2026, 11:26 AM, 136.226.232.190
+
+@
+
+Page 8/36
+
+
+--- PAGE BREAK ---
+
+Test Status Date & Time Captured IP address
+
+Report Generated On 23 Feb 2026, 11:26 AM 136.226.232.190
+
+Question Details
+
+Question: #1 Type: MCQ Skill: Status: Answered
+Frameworks _ Scaled
+Agile - Advanced
+
+Result: Correct Level: Easy Time Taken: 19 sec Average Time: 33.9 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+Question #1
+
+SAFe defines a set of levels to help manage the complexity and coordination of large, multi-
+
+team projects, which of the following is not a level in SAFe?
+
+Answer:
+
+Project Level
+
+Question: #2 Type: MCQ Skill: Status: Answered
+Frameworks _Kanban
+Result: Correct Level: Easy Time Taken: 19 sec Average Time: 40.7 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+Question #2
+
+A cumulative flow diagram shows
+
+Answer:
+
+Quantity of work in a given state
+
+Capgomini®
+
+Page 9/36
+
+
+--- PAGE BREAK ---
+
+Question: #3 Type: MCQ Skill: Status: Answered
+
+Mindset &
+
+Behaviours_Continuous
+
+Learning
+Result: Correct Level: Easy Time Taken: 26 sec Average Time: 26.84 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+
+0 times
+
+Question #3
+
+Which of the following is a key principle of Agile Continuous Learning?
+
+Answer:
+
+Continuous improvement
+
+Question: #4 Type: MCQ Skill: Status: Answered
+Mindset &
+Behaviours_Customer
+Focus
+Result: Wrong Level: Easy Time Taken: 20 sec Average Time: 24.63 sec
+Score: 0/1 Window Violation: Time Violation: 0 sec
+0 times
+Question #4
+
+Software engineering standards are important for reducing risk, cost and complexity. To do this,
+the teams need to take care of
+
+Answer:
+
+Database design
+
+Capgomini®
+
+Page 10/36
+
+
+--- PAGE BREAK ---
+
+Question: #5 Type: True or False Skill: Status: Answered
+Techniques &
+Practices_Metrics
+
+Result: Correct Level: Easy Time Taken: 57 sec Average Time: 24.97 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+Question #5
+
+A key focus of agile metrics is on value delivered to customers - instead of measuring "what" or
+
+"how much" we are doing, we measure how it impacted a customer
+
+Answer:
+True
+Question: #6 Type: True or False Skill: Status: Answered
+Techniques &
+Practices_Metrics
+Result: Correct Level: Easy Time Taken: 1min 30sec Average Time: 23.69 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+Question #6
+
+It is not a good idea to compare velocity across teams because story points and definition of
+done can vary between teams.
+
+Answer:
+
+True
+
+Capgomini®
+
+Page 11/36
+
+
+--- PAGE BREAK ---
+
+Question: #7
+
+Result: Correct
+
+Score: 1/1
+
+Question #7
+
+Type: MCQ
+
+Level: Easy
+
+Window Violation:
+0 times
+
+Skill:
+Techniques &
+Practices_Metrics
+
+Time Taken: 32sec
+
+Time Violation: 0 sec
+
+Cumulative Flow Diagram(CFD) shows the status of tasks -
+
+Answer:
+
+All of these
+
+Question: #8
+
+Result: Correct
+
+Score: 1/1
+
+Question #8
+
+What is a user story?
+
+Answer:
+
+Type: MCQ
+
+Level: Easy
+
+Window Violation:
+
+0 times
+
+A short, simple descriptions of a feature
+
+Skill:
+Techniques &
+Practices_User Stories
+
+Time Taken: 26 sec
+
+Time Violation: 0 sec
+
+Capgomini®
+
+Status: Answered
+
+Average Time: 26.61 sec
+
+Status: Answered
+
+Average Time: 26.87 sec
+
+Page 12/36
+
+
+--- PAGE BREAK ---
+
+Question: #9
+
+Result: Wrong
+Score: 0/1
+
+Question #9
+
+Type: MCQ Skill: Status: Answered
+Techniques &
+Practices_User Stories
+
+Level: Easy Time Taken: 42 sec Average Time: 39.14 sec
+Window Violation: Time Violation: 0 sec
+0 times
+
+What is a story point?
+
+Answer:
+
+a number that tells the team how many times a story has been requested
+
+Question: #10
+
+Result: Wrong
+
+Score: 0/1
+
+Question #10
+
+What is the purpose
+
+Answer:
+
+All of the above
+
+Type: MCQ Skill: Status: Answered
+Engineering_Devops -
+concepts
+Level: Easy Time Taken: 23 sec Average Time: 28.23 sec
+Window Violation: Time Violation: 0 sec
+0 times
+
+of a Configuration Management tool in DevOps?
+
+Capgomini®
+
+Page 13/36
+
+
+--- PAGE BREAK ---
+
+Question: #11 Type: MCQ Skill: Status: Answered
+Engineering_Devops -
+
+advanced
+Result: Wrong Level: Easy Time Taken: 21 sec Average Time: 24.93 sec
+Score: 0/1 Window Violation: Time Violation: 0 sec
+
+0 times
+
+Question #1l
+
+What is the purpose of continuous integration in DevOps?
+
+Answer:
+
+All of the above
+
+Question: #12 Type: MCQ Skill: Status: Answered
+Engineering_Testing TDD
+Result: Correct Level: Easy Time Taken: 22 sec Average Time: 31.11 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #12
+
+What types of automated testing activities are included in the continuous integration process?
+
+Answer:
+
+Unit and integration testing
+
+Question: #13 Type: MCQ Skill: Status: Answered
+Engineering_Testing TDD
+Result: Correct Level: Easy Time Taken: 22 sec Average Time: 28.71 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #13
+
+Which testing is based on the expected behavior of the software being developed?
+
+Answer:
+
+Behaviour driven development Capgomini®
+
+Page 14/36
+
+
+--- PAGE BREAK ---
+
+Question: #14 Type: MCQ Skill: Status: Answered
+Engineering_ Testing
+Advanced Automation
+
+Result: Correct Level: Easy Time Taken: 19 sec Average Time: 28.51 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #14
+
+What is the name of the process in TDD where a failing test is written before any code is
+
+written?
+
+Answer:
+
+Red phase
+Question: #15 Type: MCQ Skill: Frameworks_Scrum Status: Answered
+Result: Correct Level: Easy Time Taken: 24 sec Average Time: 40.33 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+
+0 times
+
+Question #15
+
+Which of the following is delivered at the end of the Sprint?
+
+Answer:
+
+An increment of Done software
+
+Question: #16 Type: MCQ Skill: Frameworks_Scrum Status: Answered
+Result: Correct Level: Easy Time Taken: 26 sec Average Time: 37.35 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+
+0 times
+
+Question #16
+
+Which of the following activity/event is not timeboxed
+
+Answer:
+
+Product Backlog Refinement c mt
+
+Page 15/36
+
+
+--- PAGE BREAK ---
+
+Question: #17 Type: MCQ Skill: Status: Answered
+Frameworks_Kanban
+
+Result: Wrong Level: Easy Time Taken: 37 sec Average Time: 47.57 sec
+Score: 0/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #17
+
+What is the main objective of using “pull system" in Kanban?
+
+Answer:
+
+To ensure that team members pull work from each other as soon as it is ready
+
+Question: #18 Type: MCQ Skill: Status: Answered
+Mindset &
+Behaviours_Customer
+Focus
+Result: Correct Level: Easy Time Taken: 27 sec Average Time: 25.69 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #18
+
+Agile customer focus emphasizes on
+
+Answer:
+
+Regular customer engagement
+
+Capgomini®
+
+Page 16/36
+
+
+--- PAGE BREAK ---
+
+Question: #19 Type: MCQ Skill: Status: Answered
+Mindset &
+Behaviours _Ownership
+and Collaboration
+
+Result: Correct Level: Easy Time Taken: 25 sec Average Time: 31.95 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #19
+
+The Agile Manifesto values:
+
+Answer:
+
+Customer collaboration and responding to change
+
+Question: #20 Type: True or False Skill: Status: Answered
+Mindset &
+Behaviours _Ownership
+and Collaboration
+
+Result: Correct Level: Easy Time Taken: 1min 20sec Average Time: 25.21 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #20
+Giving teams clear responsibilities and providing space for them to organise and manage
+themselves allows more freedom to meet goals and overcome challenges
+
+Answer:
+
+True
+
+Capgomini®
+
+Page 17/36
+
+
+--- PAGE BREAK ---
+
+Question: #21 Type: Multiple Answer
+
+Result: Wrong Level: Easy
+
+Window Violation:
+0 times
+
+Score: 0/1
+
+Question #21
+
+Steps to being and doing agile successfully are -
+
+Answer:
+
+All of these
+Question: #22 Type: MCQ
+Result: Correct Level: Easy
+
+Window Violation:
+0 times
+
+Score: 1/1
+
+Question #22
+
+Skill:
+
+Techniques &
+Practices_Collaborative
+Development
+
+Time Taken: 39 sec
+
+Time Violation: 0 sec
+
+Skill:
+Techniques &
+Practices_Metrics
+
+Time Taken: 33 sec
+
+Time Violation: 0 sec
+
+Status: Answered
+
+Average Time: 36.19 sec
+
+Status: Answered
+
+Average Time: 26.19 sec
+
+Following Agile business metrics will help in determining if the organization is embodying agile
+
+principles, the business metrics are -
+
+Answer:
+
+All of these
+
+Capgomini®
+
+Page 18/36
+
+
+--- PAGE BREAK ---
+
+Question: #23 Type: MCQ Skill: Status: Answered
+Engineering_Devops -
+
+concepts
+Result: Correct Level: Easy Time Taken: 55 sec Average Time: 25.1] sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+
+0 times
+
+Question #23
+
+Which tool can be used to create and manage user stories and epics in Agile development?
+
+Answer:
+JIRA
+Question: #24 Type: MCQ Skill: Status: Answered
+Engineering_Devops -
+advanced
+Result: Correct Level: Easy Time Taken: 27 sec Average Time: 24.29 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+
+0 times
+
+Question #24
+
+What is the purpose of continuous monitoring in DevOps?
+
+Answer:
+
+All of the above
+
+Capgomini®
+
+Page 19/36
+
+
+--- PAGE BREAK ---
+
+Question: #25 Type: MCQ Skill: Status: Answered
+Engineering_ Testing
+Advanced Automation
+
+Result: Correct Level: Easy Time Taken: 21 sec Average Time: 29.72 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #25
+
+What is the name of the process in TDD where the code is written to pass the failing test?
+
+Answer:
+
+Green phase
+
+Question: #26 Type: MCQ Skill: Frameworks_Scrum Status: Answered
+Result: Correct Level: Easy Time Taken: 16 sec Average Time: 37.13 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+
+0 times
+
+Question #26
+
+What does a burn down chart represent?
+
+Answer:
+
+Remaining work with respect to time
+
+Capgomini®
+
+Page 20/36
+
+
+--- PAGE BREAK ---
+
+Question: #27 Type: MCQ
+
+Result: Correct Level: Easy
+
+Window Violation:
+0 times
+
+Score: 1/1
+
+Question #27
+
+Activities of FDD are -
+
+Answer:
+
+All of these
+
+Question: #28 Type: Multiple Answer
+
+Result: Wrong Level: Easy
+
+Window Violation:
+0 times
+
+Score: 0/1
+
+Question #28
+
+Skill: Status: Answered
+Techniques &
+Practices_Collaborative
+
+Development
+Time Taken: 30 sec Average Time: 25.38 sec
+
+Time Violation: 0 sec
+
+Skill: Status: Answered
+Techniques &
+Practices_Collaborative
+
+Development
+Time Taken: 21 sec Average Time: 37.74 sec
+
+Time Violation: 0 sec
+
+Teams that are doing Agile will utilize modern DevOps tools that simplify the continuous
+
+integration and delivery process, they are-
+
+Answer:
+
+None of these
+
+Capgomini®
+
+Page 21/36
+
+
+--- PAGE BREAK ---
+
+Question: #29 Type: MCQ Skill: Status: Answered
+Techniques &
+Practices_Collaborative
+Development
+
+Result: Wrong Level: Easy Time Taken: 35 sec Average Time: 26.28 sec
+Score: 0/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #29
+
+The basic expectations to keep the Agile process running smoothly are
+
+Answer:
+
+Guidelines - The guidelines should be clear to help individuals navigate through the process
+
+Question: #30 Type: MCQ Skill: Status: Answered
+Techniques &
+Practices_User Stories
+
+Result: Correct Level: Easy Time Taken: 39 sec Average Time: 29.51 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #30
+
+Which of the following questions is NOT answered by a user story?
+
+Answer:
+
+How
+
+Capgomini®
+
+Page 22/36
+
+
+--- PAGE BREAK ---
+
+Question: #31 Type: MCQ Skill:
+Engineering_Devops -
+advanced
+
+Result: Correct Level: Easy Time Taken: 20 sec
+
+Score: 1/1 Window Violation: Time Violation: 0 sec
+
+0 times
+
+Question #31
+
+What is the primary goal of continuous integration?
+
+Answer:
+
+To automatically build and test code changes
+
+Question: #32 Type: MCQ Skill:
+Engineering_Devops -
+advanced
+
+Result: Correct Level: Easy Time Taken: 18 sec
+
+Score: 1/1 Window Violation: Time Violation: 0 sec
+
+0 times
+
+Question #32
+
+Which tool is commonly used for continuous integration in DevOps?
+
+Answer:
+
+Jenkins
+
+Capgomini®
+
+Status: Answered
+
+Average Time: 31.64 sec
+
+Status: Answered
+
+Average Time: 24.32 sec
+
+Page 23/36
+
+
+--- PAGE BREAK ---
+
+Question: #33 Type: MCQ Skill: Status: Answered
+Engineering_ Testing
+Advanced Automation
+
+Result: Correct Level: Easy Time Taken: 20 sec Average Time: 42.07 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #33
+
+What is the name of the process in TDD where the code is refactored to meet the desired
+
+design and maintainability?
+
+Answer:
+Blue phase
+Question: #34 Type: MCQ Skill: Status: Answered
+Engineering_ Testing
+Advanced Automation
+Result: Correct Level: Easy Time Taken: 19 sec Average Time: 28.1 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+
+0 times
+
+Question #34
+
+What is the name of the BDD tool that allows for the execution of Gherkin-formatted tests?
+
+Answer:
+
+Cucumber
+
+Capgomini®
+
+Page 24/36
+
+
+--- PAGE BREAK ---
+
+Question: #35 Type: MCQ Skill: Frameworks_Scrum Status: Answered
+
+Result: Correct Level: Easy Time Taken: 39 sec Average Time: 41.48 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #35
+
+when is the sprint backlog created?
+
+Answer:
+
+Its outcome of sprint planning meeting
+
+Question: #36 Type: MCQ Skill: Status: Answered
+Frameworks _ Scaled
+Agile - Concepts
+
+Result: Correct Level: Easy Time Taken: 28 sec Average Time: 35.76 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #36
+
+Which of the below competencies aligns strategy and execution by applying Lean and systems
+thinking approaches to strategy and investment funding, Agile portfolio operations, and
+governance?
+
+Answer:
+
+Lean portfolio management
+
+Capgomini®
+
+Page 25/36
+
+
+--- PAGE BREAK ---
+
+Question: #37 Type: MCQ Skill: Status: Answered
+Frameworks _ Scaled
+Agile - Advanced
+
+Result: Correct Level: Easy Time Taken: 17 sec Average Time: 37.55 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #37
+
+You are working on a large-scale project with a distributed team. Which of the following would
+
+be the best approach to coordinate the work of the different teams?
+
+Answer:
+
+Using a scaled agile framework such as SAFe or LeSS
+
+Question: #38 Type: MCQ Skill: Status: Answered
+Frameworks _ Scaled
+Agile - Advanced
+
+Result: Correct Level: Easy Time Taken: 19 sec Average Time: 38.19 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #38
+
+Your team is working on a large, complex project using the Scaled Agile Framework (SAFe). Your
+manager has asked you to lead the next planning meeting. What should be the primary focus of
+this meeting?
+
+Answer:
+
+To plan and prioritize upcoming work
+
+Capgomini®
+
+Page 26/36
+
+
+--- PAGE BREAK ---
+
+Question: #39 Type: MCQ
+
+Result: Correct Level: Easy
+
+Window Violation:
+0 times
+
+Score: 1/1
+
+Question #39
+
+Agile continuous learning emphasizes on
+
+Answer:
+
+Regular training and development for the team
+
+Question: #40 Type: MCQ
+
+Result: Wrong Level: Easy
+
+Window Violation:
+0 times
+
+Score: 0/1
+
+Question #40
+
+Agile Continuous Learning can be best supported by
+
+Answer:
+
+A centralized decision-making process
+
+Skill:
+
+Mindset &
+Behaviours_Continuous
+Learning
+
+Time Taken: 43 sec
+
+Time Violation: 0 sec
+
+Skill:
+
+Mindset &
+Behaviours_Continuous
+Learning
+
+Time Taken: 29 sec
+
+Time Violation: 0 sec
+
+Capgomini®
+
+Status: Answered
+
+Average Time: 27.91 sec
+
+Status: Answered
+
+Average Time: 32.62 sec
+
+Page 27/36
+
+
+--- PAGE BREAK ---
+
+Question: #41
+
+Result: Wrong
+
+Score: 0/1
+
+Question #41
+
+Type: Multiple Answer
+
+Level: Easy
+
+Window Violation:
+0 times
+
+Skill:
+
+Mindset &
+Behaviours_Customer
+Focus
+
+Time Taken: 39 sec
+
+Time Violation: 0 sec
+
+Design Thinking ways to measure the success of efforts are
+
+Answer:
+
+All of these
+
+Question: #42
+
+Result: Wrong
+Score: 0/1
+
+Question #42
+
+Type: MCQ
+
+Level: Easy
+
+Window Violation:
+0 times
+
+Skill:
+
+Mindset &
+
+Behaviours _Ownership
+and Collaboration
+
+Time Taken: 23 sec
+
+Time Violation: 0 sec
+
+How does "Cross-functional teams" support Agile collaboration?
+
+Answer:
+
+By improving the flow of work
+
+Capgomini®
+
+Status: Answered
+
+Average Time: 31.32 sec
+
+Status: Answered
+
+Average Time: 33.25 sec
+
+Page 28/36
+
+
+--- PAGE BREAK ---
+
+Question: #43 Type: Multiple Answer
+
+Result: Wrong Level: Easy
+Score: 0/1 Window Violation:
+0 times
+
+Question #43
+
+Skill:
+Techniques &
+Practices_Metrics
+
+Time Taken: 2 min 6 sec
+
+Time Violation: 0 sec
+
+Status: Answered
+
+Average Time: 35.67 sec
+
+To measure code coverage, the parameters which need to be measured are
+
+Answer:
+
+Branches or condtions, Statements
+
+Question: #44 Type: MCQ
+
+Result: Correct Level: Easy
+
+Score: 1/1 Window Violation:
+0 times
+
+Question #44
+
+Skill:
+Engineering_Devops -
+concepts
+
+Time Taken: 48 sec
+
+Time Violation: 0 sec
+
+Which of the following is a key practice of DevOps?
+
+Answer:
+
+All of the above
+
+Capgomini®
+
+Status: Answered
+
+Average Time: 20.18 sec
+
+Page 29/36
+
+
+--- PAGE BREAK ---
+
+Question: #45 Type: MCQ Skill: Status: Answered
+Engineering_Devops -
+
+advanced
+Result: Wrong Level: Easy Time Taken: 18 sec Average Time: 34.02 sec
+Score: 0/1 Window Violation: Time Violation: 0 sec
+
+0 times
+
+Question #45
+
+Which tool is commonly used for monitoring and logging in DevOps?
+
+Answer:
+Prometheus
+Question: #46 Type: MCQ Skill: Status: Answered
+Engineering_Testing TDD
+Result: Correct Level: Easy Time Taken: 26 sec Average Time: 24.93 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+
+0 times
+
+Question #46
+
+Who is responsible for testing in an Agile development team?
+
+Answer:
+
+The entire team
+
+Capgomini®
+
+Page 30/36
+
+
+--- PAGE BREAK ---
+
+Question: #47 Type: MCQ Skill: Status: Answered
+Engineering_ Testing
+Advanced Automation
+
+Result: Correct Level: Easy Time Taken: 23 sec Average Time: 22.24 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #47
+
+What is the benefit of using TDD in software development?
+
+Answer:
+
+All of the above
+
+Question: #48 Type: MCQ Skill: Frameworks_Scrum Status: Answered
+Result: Correct Level: Easy Time Taken: 19 sec Average Time: 34.59 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+
+0 times
+
+Question #48
+
+Which of the following option is used to measure the size of a user story for an Agile project?
+
+Answer:
+
+Story Points
+
+Question: #49 Type: MCQ Skill: Frameworks_Scrum Status: Answered
+Result: Correct Level: Easy Time Taken: 22 sec Average Time: 43.04 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+
+0 times
+
+Question #49
+
+Product Backlog should be ordered on the basis of
+
+Answer:
+
+Value of the items being delivered
+
+Capgomini®
+
+Page 31/36
+
+
+--- PAGE BREAK ---
+
+Question: #50 Type: MCQ
+
+Result: Correct Level: Easy
+
+Score: 1/1 Window Violation:
+0 times
+
+Question #50
+
+What are the characteristics of an MVP?
+
+Answer:
+
+All of the above
+
+Question: #51 Type: MCQ
+
+Result: Correct Level: Easy
+
+Score: 1/1 Window Violation:
+0 times
+
+Question #5]
+
+Skill: Frameworks _Scrum
+Time Taken: 31sec
+
+Time Violation: 0 sec
+
+Skill:
+Frameworks_Scaled
+Agile - Concepts
+
+Time Taken: 19 sec
+
+Time Violation: 0 sec
+
+When is the System Demo conducted during Program Execution?
+
+Answer:
+
+At the end of every Iteration
+
+Question: #52 Type: MCQ
+
+Result: Correct Level: Easy
+
+Score: 1/1 Window Violation:
+0 times
+
+Question #52
+
+Skill:
+Frameworks_Scaled
+Agile - Concepts
+
+Time Taken: 50 sec
+
+Time Violation: 0 sec
+
+Status: Answered
+
+Average Time: 31.37 sec
+
+Status: Answered
+
+Average Time: 32.95 sec
+
+Status: Answered
+
+Average Time: 38.41 sec
+
+Organizational agility, lean-agile leadership, and agile product delivery are part of
+
+Answer:
+
+Core competencies of business agility
+
+Capgomini®
+
+Page 32/36
+
+
+--- PAGE BREAK ---
+
+Question: #53 Type: MCQ Skill: Status: Answered
+Frameworks _ Scaled
+Agile - Advanced
+
+Result: Correct Level: Easy Time Taken: 20 sec Average Time: 27.51 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #53
+
+What is the time-box for a Program Increment (PI) in Scaled Agile Framework (SAFe)?
+
+Answer:
+8-12 weeks
+Question: #54 Type: MCQ Skill: Status: Answered
+Frameworks _ Scaled
+Agile - Advanced
+Result: Wrong Level: Easy Time Taken: 20 sec Average Time: 33.65 sec
+Score: 0/1 Window Violation: Time Violation: 0 sec
+
+0 times
+
+Question #54
+
+What is the role of the Scaled Agile Framework (SAFe) "Product Manager" responsible for?
+
+Answer:
+
+Managing the project budget
+
+Capgomini®
+
+Page 33/36
+
+
+--- PAGE BREAK ---
+
+Question: #55 Type: MCQ Skill: Status: Answered
+Frameworks_Kanban
+
+Result: Correct Level: Easy Time Taken: 17 sec Average Time: 34.53 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #55
+
+Which one of the following is a reason to use the Kanban “pull” method?
+
+Answer:
+Both2&3
+Question: #56 Type: Multiple Answer Skill: Status: Answered
+Mindset &
+Behaviours_Customer
+Focus
+Result: Wrong Level: Easy Time Taken: 21 sec Average Time: 41.18 sec
+Score: 0/1 Window Violation: Time Violation: 0 sec
+
+0 times
+
+Question #56
+
+Design Thinking primarily focuses on
+
+Answer:
+
+Problem solving
+
+Capgomini®
+
+Page 34/36
+
+
+--- PAGE BREAK ---
+
+Question: #57 Type: MCQ
+
+Result: Correct Level: Easy
+
+Score: 1/1 Window Violation:
+0 times
+
+Question #57
+
+What is the full form of Devops?
+
+Answer:
+
+Development And Operations
+
+Question: #58 Type: MCQ
+
+Result: Correct Level: Easy
+
+Score: 1/1 Window Violation:
+0 times
+
+Question #58
+
+What is DevOps?
+
+Answer:
+
+Skill:
+Engineering_Devops -
+concepts
+
+Time Taken: 30sec
+
+Time Violation: 0 sec
+
+Skill:
+Engineering_Devops -
+concepts
+
+Time Taken: 25 sec
+
+Time Violation: 0 sec
+
+Status: Answered
+
+Average Time: 19.56 sec
+
+Status: Answered
+
+Average Time: 28.09 sec
+
+The collaboration and communication of both software developers and other information-
+
+technology (IT) professional while automating the process of software delivery and
+
+infrastructure changes
+
+Capgomini®
+
+Page 35/36
+
+
+--- PAGE BREAK ---
+
+Question: #59 Type: MCQ Skill: Status: Answered
+Engineering_Testing TDD
+
+Result: Correct Level: Easy Time Taken: 24 sec Average Time: 21.29 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+Question #59
+
+Agile testing strategies might include
+
+Answer:
+
+All of the above
+
+Question: #60 Type: True or False Skill: Status: Answered
+Engineering_Testing TDD
+
+Result: Correct Level: Easy Time Taken: 21 sec Average Time: 21.31 sec
+Score: 1/1 Window Violation: Time Violation: 0 sec
+0 times
+
+Question #60
+
+Zero defect code is the goal of Agile testing
+
+Answer:
+
+False
+Disclaimer
+
+This report is generated electronically based on the information provided by the assessment participants. It also
+includes flags, especially when proctoring services are utilized. However, it is important to emphasize that this
+report should not be the sole basis for making any business, selection, entrance, or employment-related
+decisions. iMocha assumes no responsibility for any consequences arising from the use of this report or any
+actions taken or refrained from as a result of it. This includes all business decisions made in reliance on the
+
+information, advice, or Al flags contained in this report, as well as any sources of information mentioned or
+referred to in the report.
+
+Page 36/36
+
+
+--- PAGE BREAK ---
+
