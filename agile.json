@@ -1,0 +1,302 @@
+[
+    {
+        "question": "SAFe defines a set of levels to help manage the complexity and coordination of large, multi- team projects, which of the following is not a level in SAFe?",
+        "answer": "Project Level",
+        "is_correct": true
+    },
+    {
+        "question": "A cumulative flow diagram shows",
+        "answer": "Quantity of work in a given state",
+        "is_correct": true
+    },
+    {
+        "question": "Which of the following is a key principle of Agile Continuous Learning?",
+        "answer": "Continuous improvement",
+        "is_correct": false
+    },
+    {
+        "question": "Software engineering standards are important for reducing risk, cost and complexity. To do this, the teams need to take care of",
+        "answer": "Database design",
+        "is_correct": true
+    },
+    {
+        "question": "A key focus of agile metrics is on value delivered to customers - instead of measuring \"what\" or \"how much\" we are doing, we measure how it impacted a customer",
+        "answer": "True",
+        "is_correct": true
+    },
+    {
+        "question": "It is not a good idea to compare velocity across teams because story points and definition of done can vary between teams.",
+        "answer": "True",
+        "is_correct": true
+    },
+    {
+        "question": "Cumulative Flow Diagram(CFD) shows the status of tasks -",
+        "answer": "All of these",
+        "is_correct": true
+    },
+    {
+        "question": "What is a user story?",
+        "answer": "",
+        "is_correct": false
+    },
+    {
+        "question": "0 times What is a story point?",
+        "answer": "a number that tells the team how many times a story has been requested",
+        "is_correct": false
+    },
+    {
+        "question": "What is the purpose",
+        "answer": "0 times of a Configuration Management tool in DevOps?",
+        "is_correct": false
+    },
+    {
+        "question": "l What is the purpose of continuous integration in DevOps?",
+        "answer": "All of the above",
+        "is_correct": true
+    },
+    {
+        "question": "What types of automated testing activities are included in the continuous integration process?",
+        "answer": "Unit and integration testing",
+        "is_correct": true
+    },
+    {
+        "question": "Which testing is based on the expected behavior of the software being developed?",
+        "answer": "Behaviour driven development",
+        "is_correct": true
+    },
+    {
+        "question": "What is the name of the process in TDD where a failing test is written before any code is written?",
+        "answer": "Red phase",
+        "is_correct": true
+    },
+    {
+        "question": "Which of the following is delivered at the end of the Sprint?",
+        "answer": "An increment of Done software",
+        "is_correct": true
+    },
+    {
+        "question": "Which of the following activity/event is not timeboxed",
+        "answer": "Product Backlog Refinement c mt Page 15/36 --- PAGE BREAK ---",
+        "is_correct": false
+    },
+    {
+        "question": "What is the main objective of using \u201cpull system\" in Kanban?",
+        "answer": "To ensure that team members pull work from each other as soon as it is ready",
+        "is_correct": true
+    },
+    {
+        "question": "Agile customer focus emphasizes on",
+        "answer": "Regular customer engagement",
+        "is_correct": true
+    },
+    {
+        "question": "The Agile Manifesto values:",
+        "answer": "Customer collaboration and responding to change",
+        "is_correct": true
+    },
+    {
+        "question": "Giving teams clear responsibilities and providing space for them to organise and manage themselves allows more freedom to meet goals and overcome challenges",
+        "answer": "True",
+        "is_correct": false
+    },
+    {
+        "question": "Steps to being and doing agile successfully are -",
+        "answer": "All of these",
+        "is_correct": true
+    },
+    {
+        "question": "Following Agile business metrics will help in determining if the organization is embodying agile principles, the business metrics are -",
+        "answer": "All of these",
+        "is_correct": true
+    },
+    {
+        "question": "Which tool can be used to create and manage user stories and epics in Agile development?",
+        "answer": "JIRA",
+        "is_correct": true
+    },
+    {
+        "question": "What is the purpose of continuous monitoring in DevOps?",
+        "answer": "All of the above",
+        "is_correct": true
+    },
+    {
+        "question": "What is the name of the process in TDD where the code is written to pass the failing test?",
+        "answer": "Green phase",
+        "is_correct": true
+    },
+    {
+        "question": "What does a burn down chart represent?",
+        "answer": "Remaining work with respect to time",
+        "is_correct": true
+    },
+    {
+        "question": "Activities of FDD are -",
+        "answer": "All of these",
+        "is_correct": false
+    },
+    {
+        "question": "Teams that are doing Agile will utilize modern DevOps tools that simplify the continuous integration and delivery process, they are-",
+        "answer": "None of these",
+        "is_correct": false
+    },
+    {
+        "question": "The basic expectations to keep the Agile process running smoothly are",
+        "answer": "Guidelines - The guidelines should be clear to help individuals navigate through the process",
+        "is_correct": true
+    },
+    {
+        "question": "Which of the following questions is NOT answered by a user story?",
+        "answer": "How",
+        "is_correct": true
+    },
+    {
+        "question": "What is the primary goal of continuous integration?",
+        "answer": "To automatically build and test code changes",
+        "is_correct": true
+    },
+    {
+        "question": "Which tool is commonly used for continuous integration in DevOps?",
+        "answer": "Jenkins",
+        "is_correct": true
+    },
+    {
+        "question": "What is the name of the process in TDD where the code is refactored to meet the desired design and maintainability?",
+        "answer": "Blue phase",
+        "is_correct": true
+    },
+    {
+        "question": "What is the name of the BDD tool that allows for the execution of Gherkin-formatted tests?",
+        "answer": "Cucumber",
+        "is_correct": true
+    },
+    {
+        "question": "when is the sprint backlog created?",
+        "answer": "Its outcome of sprint planning meeting",
+        "is_correct": true
+    },
+    {
+        "question": "Which of the below competencies aligns strategy and execution by applying Lean and systems thinking approaches to strategy and investment funding, Agile portfolio operations, and governance?",
+        "answer": "Lean portfolio management",
+        "is_correct": true
+    },
+    {
+        "question": "You are working on a large-scale project with a distributed team. Which of the following would be the best approach to coordinate the work of the different teams?",
+        "answer": "Using a scaled agile framework such as SAFe or LeSS",
+        "is_correct": true
+    },
+    {
+        "question": "Your team is working on a large, complex project using the Scaled Agile Framework (SAFe). Your manager has asked you to lead the next planning meeting. What should be the primary focus of this meeting?",
+        "answer": "To plan and prioritize upcoming work",
+        "is_correct": true
+    },
+    {
+        "question": "Agile continuous learning emphasizes on",
+        "answer": "Regular training and development for the team",
+        "is_correct": false
+    },
+    {
+        "question": "Agile Continuous Learning can be best supported by",
+        "answer": "",
+        "is_correct": false
+    },
+    {
+        "question": "Design Thinking ways to measure the success of efforts are",
+        "answer": "All of these",
+        "is_correct": false
+    },
+    {
+        "question": "How does \"Cross-functional teams\" support Agile collaboration?",
+        "answer": "By improving the flow of work",
+        "is_correct": false
+    },
+    {
+        "question": "To measure code coverage, the parameters which need to be measured are",
+        "answer": "Branches or condtions, Statements",
+        "is_correct": true
+    },
+    {
+        "question": "Which of the following is a key practice of DevOps?",
+        "answer": "All of the above",
+        "is_correct": false
+    },
+    {
+        "question": "Which tool is commonly used for monitoring and logging in DevOps?",
+        "answer": "Prometheus",
+        "is_correct": true
+    },
+    {
+        "question": "Who is responsible for testing in an Agile development team?",
+        "answer": "The entire team",
+        "is_correct": true
+    },
+    {
+        "question": "What is the benefit of using TDD in software development?",
+        "answer": "All of the above",
+        "is_correct": true
+    },
+    {
+        "question": "Which of the following option is used to measure the size of a user story for an Agile project?",
+        "answer": "Story Points",
+        "is_correct": true
+    },
+    {
+        "question": "Product Backlog should be ordered on the basis of",
+        "answer": "Value of the items being delivered",
+        "is_correct": true
+    },
+    {
+        "question": "What are the characteristics of an MVP?",
+        "answer": "All of the above",
+        "is_correct": true
+    },
+    {
+        "question": "When is the System Demo conducted during Program Execution?",
+        "answer": "At the end of every Iteration",
+        "is_correct": true
+    },
+    {
+        "question": "Organizational agility, lean-agile leadership, and agile product delivery are part of",
+        "answer": "Core competencies of business agility",
+        "is_correct": true
+    },
+    {
+        "question": "What is the time-box for a Program Increment (PI) in Scaled Agile Framework (SAFe)?",
+        "answer": "8-12 weeks",
+        "is_correct": false
+    },
+    {
+        "question": "What is the role of the Scaled Agile Framework (SAFe) \"Product Manager\" responsible for?",
+        "answer": "Managing the project budget",
+        "is_correct": true
+    },
+    {
+        "question": "Which one of the following is a reason to use the Kanban \u201cpull\u201d method?",
+        "answer": "Both2&3",
+        "is_correct": false
+    },
+    {
+        "question": "Design Thinking primarily focuses on",
+        "answer": "Problem solving",
+        "is_correct": true
+    },
+    {
+        "question": "What is the full form of Devops?",
+        "answer": "Development And Operations",
+        "is_correct": true
+    },
+    {
+        "question": "What is DevOps?",
+        "answer": "The collaboration and communication of both software developers and other information- technology (IT) professional while automating the process of software delivery and infrastructure changes",
+        "is_correct": true
+    },
+    {
+        "question": "Agile testing strategies might include",
+        "answer": "All of the above",
+        "is_correct": true
+    },
+    {
+        "question": "Zero defect code is the goal of Agile testing",
+        "answer": "False",
+        "is_correct": false
+    }
+]

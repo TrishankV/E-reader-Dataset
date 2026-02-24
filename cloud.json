@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Faas provides an application development environment in the form of ___?",
+        "answer": "Hosted applications",
+        "is_correct": true
+    },
+    {
+        "question": "provides uninterrupted services.",
+        "answer": "High Availability",
+        "is_correct": true
+    },
+    {
+        "question": "Which filters network traffic based on rules defined by the administrator",
+        "answer": "Firewall",
+        "is_correct": true
+    },
+    {
+        "question": "Which of these is not a cloud deplyment model?",
+        "answer": "Compound Cloud",
+        "is_correct": true
+    },
+    {
+        "question": "~ oe is a Cloud Provider?",
+        "answer": "Bothl&2",
+        "is_correct": true
+    },
+    {
+        "question": "The features of On-primses computing are?",
+        "answer": "Both Option 1 and 2",
+        "is_correct": false
+    },
+    {
+        "question": "Which of the following is example for Post imaging tool?",
+        "answer": "Microsoft Deployment Toolkit",
+        "is_correct": true
+    },
+    {
+        "question": "Choose the server which is used with the BIND package?",
+        "answer": "named",
+        "is_correct": true
+    },
+    {
+        "question": "Public document Hosting Limitation is_ __?",
+        "answer": "All of the above",
+        "is_correct": true
+    },
+    {
+        "question": "Application Servers Canbe ____\u00a7_\u00a7_\u00a7_______ ?",
+        "answer": "All of the above",
+        "is_correct": true
+    },
+    {
+        "question": "Print servers Provide_________ ?",
+        "answer": "All of the above",
+        "is_correct": true
+    },
+    {
+        "question": "is a partitioning of single server into multiple logical servers",
+        "answer": "Vitrualization",
+        "is_correct": true
+    },
+    {
+        "question": "urity checkpoint.",
+        "answer": "Firewall",
+        "is_correct": true
+    },
+    {
+        "question": "laas Includes ?",
+        "answer": "All of the above",
+        "is_correct": true
+    },
+    {
+        "question": "What are the components of Cloud Computing?",
+        "answer": "All of the above",
+        "is_correct": true
+    },
+    {
+        "question": "replaces the physical on-prem IT infrastructure.",
+        "answer": "laaS",
+        "is_correct": true
+    },
+    {
+        "question": "Type: MCQ Level: Easy Window Violation: 0 times Serverless computing is an extension of",
+        "answer": "Faas",
+        "is_correct": true
+    },
+    {
+        "question": "Which is not related to Social Engineering attacks?",
+        "answer": "DoS",
+        "is_correct": true
+    },
+    {
+        "question": "A problem that has been analyzed but has not be resolved is known as:",
+        "answer": "Known Errors",
+        "is_correct": true
+    },
+    {
+        "question": "Which of the following statement is correct?",
+        "answer": "Problem Management focuses on root cause and Incident Management focuses on restoration",
+        "is_correct": true
+    },
+    {
+        "question": "Which of the following are the elements of creative common system?",
+        "answer": "All of the above",
+        "is_correct": true
+    },
+    {
+        "question": "Which statement is not a feature of Router?",
+        "answer": "Cannot Provide Remote Access",
+        "is_correct": true
+    },
+    {
+        "question": "Identify the incorrect statement w.r.t Saas",
+        "answer": "High financial risk",
+        "is_correct": true
+    },
+    {
+        "question": "Which of the following benefits are correct regarding SaaS to Software Vendors?",
+        "answer": "All of the above",
+        "is_correct": true
+    },
+    {
+        "question": "_ is software framework, patented and invented by Google to support distributed computing on large sets of data.",
+        "answer": "MapReduce",
+        "is_correct": true
+    },
+    {
+        "question": "Identify the one which sends the request to real servers",
+        "answer": "Load balancer",
+        "is_correct": true
+    },
+    {
+        "question": "Combining solutions from more than one cloud service provider is________ ?",
+        "answer": "Multi Cloud",
+        "is_correct": true
+    },
+    {
+        "question": "Which of the following service come under category of Cloud computing?",
+        "answer": "All of the above",
+        "is_correct": true
+    },
+    {
+        "question": "High-Performance Computing(HPC) is working on strategy of ?",
+        "answer": "Parallel processing",
+        "is_correct": true
+    },
+    {
+        "question": "Which of the following allows firms to address many of the challenges of public cloud?",
+        "answer": "Hybrid Cloud",
+        "is_correct": true
+    },
+    {
+        "question": "Which is an example for Rootkit?",
+        "answer": "Sony DRM",
+        "is_correct": true
+    },
+    {
+        "question": "urity groups are for?",
+        "answer": "Access control",
+        "is_correct": true
+    },
+    {
+        "question": "Linux Runlevel 3 is used for ?",
+        "answer": "Multi user mode without GUI",
+        "is_correct": false
+    },
+    {
+        "question": "echo\u2019 command is used to?",
+        "answer": "display the content of a file",
+        "is_correct": true
+    },
+    {
+        "question": "What are the types of SLA?",
+        "answer": "All of the above",
+        "is_correct": true
+    },
+    {
+        "question": "Which protocol is incorrectly paired?",
+        "answer": "DHCP-66",
+        "is_correct": true
+    },
+    {
+        "question": "Which of the following is not a Cloud Stakeholder?",
+        "answer": "Cloud User",
+        "is_correct": false
+    },
+    {
+        "question": "_ resources in cloud servers can increase the cost.",
+        "answer": "under-allocating",
+        "is_correct": true
+    },
+    {
+        "question": "The kubernetes was invented by?",
+        "answer": "Google",
+        "is_correct": true
+    },
+    {
+        "question": "Which storage type is suitable for structured data sets?",
+        "answer": "Block Storage",
+        "is_correct": true
+    },
+    {
+        "question": "Private cloud is a",
+        "answer": "cloud architecture maintained within an enterprise data center.",
+        "is_correct": false
+    },
+    {
+        "question": "Which of the following command is used to add a new user to the system?",
+        "answer": "adduser",
+        "is_correct": true
+    },
+    {
+        "question": "netstat -i command is used for ?",
+        "answer": "Display all network interfaces",
+        "is_correct": true
+    },
+    {
+        "question": "Which command is used to show the current directory youre in?",
+        "answer": "pwd",
+        "is_correct": true
+    },
+    {
+        "question": "DHCP is ?",
+        "answer": "Dynamic Host Configuration Protocol",
+        "is_correct": true
+    },
+    {
+        "question": "What are Remote Management GUI tools?",
+        "answer": "All of the above",
+        "is_correct": true
+    },
+    {
+        "question": "Which is not an example of Saas?",
+        "answer": "Personalized marketing",
+        "is_correct": true
+    },
+    {
+        "question": "How many phases are there in Cloud Computing Planning?",
+        "answer": "3",
+        "is_correct": true
+    },
+    {
+        "question": "Which of the following is not a property of cloud computing?",
+        "answer": "Composoabilit y",
+        "is_correct": true
+    },
+    {
+        "question": "The technology used to distribute service requests to resources is known as",
+        "answer": "Load Balancing",
+        "is_correct": false
+    },
+    {
+        "question": "In which one of the following, the virtual machine simulates hardware, through which it can be independent of the underlying system hardware?",
+        "answer": "Full virtualization",
+        "is_correct": true
+    },
+    {
+        "question": "Four(4) nines indicates that the service will be unavailable for",
+        "answer": "52.36 mins/year",
+        "is_correct": true
+    },
+    {
+        "question": "is the audience of Infrastructure as a Service",
+        "answer": "Both2&3",
+        "is_correct": true
+    },
+    {
+        "question": "PaaS includes__________ ?",
+        "answer": "All of the above",
+        "is_correct": true
+    },
+    {
+        "question": "is a software licensing and delivery model where apps are subscribed to and accessed over the internet.",
+        "answer": "Saas",
+        "is_correct": true
+    },
+    {
+        "question": "Which service is used by public cloud provider to provide a set of computing resources to specific customer",
+        "answer": "VPC/Vnet",
+        "is_correct": false
+    },
+    {
+        "question": "Which is true about Bare-metal computing?",
+        "answer": "No virtualization is used",
+        "is_correct": false
+    },
+    {
+        "question": "Which is not related to BitLocker?",
+        "answer": "Certificates not required",
+        "is_correct": true
+    },
+    {
+        "question": "urity Inculdes ?",
+        "answer": "Both] & 2",
+        "is_correct": true
+    },
+    {
+        "question": "A \u201cLogical Volume Manager\" helps in?",
+        "answer": "Both storage virtualization and efficient disk space management",
+        "is_correct": false
+    }
+]

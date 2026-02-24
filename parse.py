@@ -1,5 +1,6 @@
 import re 
 import json 
+import os
 with open("agile.txt", "r", encoding="utf-8") as f:
     text = f.read()
 
@@ -51,11 +52,17 @@ def parseq(ocr):
         raw_answer = qa[1].strip()
 
         ques = clean(raw_question)
+        parts1 = ques.split("sec")
+        ques = parts1[-1].strip()
 
         ans = clean(raw_answer)
         
         ans = ans.split("Question")[0]
-        ans = ans
+        ans = ans.split("Cap")[0]
+        ans = ans.split("Disclaimer")[0]
+        parts = ans.split("sec")
+        ans = parts[-1].strip()
+        
 
         # Detect correctness
         is_correct = bool(re.search(r"Correct", block, flags=re.IGNORECASE))
@@ -72,4 +79,17 @@ ocr_text = text
 
 
 data = parseq(ocr_text)
-print(json.dumps(data, indent=4))
+# print(json.dumps(data, indent=4))
+
+
+ls  = ['agile.txt', 'cloud.txt', 'leadersjip.txt']
+
+for i in ls : 
+    with open(i , "r" , encoding="utf-8") as f : 
+        content = f.read()
+        parsed_Data = parseq(content)
+    jsonflname = os.path.splitext(i)[0] + ".json"
+    with open(jsonflname , "w" , encoding="utf-8") as out : 
+        json.dump(parsed_Data , out , indent = 4 )
+
+print("complete")
